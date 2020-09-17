@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Shaik Zakir Hussain</title>
-    <link>https://researchweb.iiit.ac.in/~zakirhussain.shaik/talk/</link>
+    <link>https://zakirhussainb2a.github.io/Learn2Grow/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Shaik Zakir Hussain</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Shaik Zakir Hussain</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://researchweb.iiit.ac.in/~zakirhussain.shaik/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://zakirhussainb2a.github.io/Learn2Grow/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>https://researchweb.iiit.ac.in/~zakirhussain.shaik/talk/example/</link>
+      <link>https://zakirhussainb2a.github.io/Learn2Grow/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://researchweb.iiit.ac.in/~zakirhussain.shaik/talk/example/</guid>
+      <guid>https://zakirhussainb2a.github.io/Learn2Grow/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
